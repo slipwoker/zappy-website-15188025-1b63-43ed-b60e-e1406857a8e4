@@ -1,8 +1,31 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-14T11:34:55.290Z",
+  "generated_at": "2026-06-14T12:07:29.976Z",
   "base_url": "https://example.com",
   "currency": "ILS",
-  "count": 0,
-  "products": []
+  "count": 1,
+  "products": [
+    {
+      "id": "183fabbd-c818-4bc3-b238-84055762b8a3",
+      "slug": "bymbh-kyyp-imjiys",
+      "name": "בימבה כייף",
+      "name_translations": {},
+      "description": "",
+      "short_description": "בימבה כיף – בימבה איכותית וצבעונית לילדים, המסייעת בפיתוח שיווי משקל וקואורדינציה תוך כדי משחק מהנה ובטוח. ",
+      "sku": null,
+      "brand": null,
+      "price": 119,
+      "base_price": 150,
+      "sale_price": 119,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-1781437789238-7boze.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/bymbh-kyyp-imjiys",
+      "categories": [],
+      "updated_at": "2026-06-14T11:56:21.619Z"
+    }
+  ]
 }

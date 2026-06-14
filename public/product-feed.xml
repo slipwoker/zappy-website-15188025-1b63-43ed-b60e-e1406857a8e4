@@ -4,6 +4,19 @@
     <title>המרתף</title>
     <link>https://example.com</link>
     <description>Product feed for המרתף</description>
-    <lastBuildDate>Sun, 14 Jun 2026 11:34:55 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 12:07:29 GMT</lastBuildDate>
+    <item>
+      <g:id>183fabbd-c818-4bc3-b238-84055762b8a3</g:id>
+      <g:title>בימבה כייף</g:title>
+      <g:description>בימבה כיף – בימבה איכותית וצבעונית לילדים, המסייעת בפיתוח שיווי משקל וקואורדינציה תוך כדי משחק מהנה ובטוח.</g:description>
+      <g:link>https://example.com/product/bymbh-kyyp-imjiys</g:link>
+      <g:image_link>https://example.com/assets/product-1781437789238-7boze.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>150.00 ILS</g:price>
+      <g:sale_price>119.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>המרתף</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
   </channel>
 </rss>
