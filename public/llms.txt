@@ -7,65 +7,65 @@
 ## Pages
 
 ### בית
-https://-15188025.zappy5.app
+https://example.com
 היכנסו לעולם קסום של משחקים וצעצועים שמחכים להתגלות. ב&#39;המרתף&#39; תמצאו מתנות מקוריות, משחקי חשיבה וחוויות קנייה מפתיעות לכל גיל. הציצו פנימה וגלו אוצר!
 
 ### אודות
-https://-15188025.zappy5.app/about
+https://example.com/about
 הכירו את הסיפור הייחודי של &#39;המרתף&#39; – חנות צעצועים שנולדה מתוך תשוקה למשחק ולחינוך. למה דווקא מרתף? גלו איך הפכנו חיפוש לאוצרות לחוויית קנייה בלתי נשכחת.
 
 ### מתנות וחינוך
-https://-15188025.zappy5.app/gifts-and-education
+https://example.com/gifts-and-education
 מחפשים מתנה שהיא גם כיף וגם ערך מוסף? ב&#39;המרתף&#39; אספנו עבורכם משחקי חשיבה, ערכות מדע וצעצועים חינוכיים שמפתחים סקרנות ומעודדים למידה דרך משחק. תנו מתנה שפותחת עולמות.
 
 ### צור קשר
-https://-15188025.zappy5.app/contact
+https://example.com/contact
 יש לכם שאלה על צעצוע או משחק? רוצים המלצה אישית למתנה מושלמת? צוות &#39;המרתף&#39; כאן בשבילכם. מלאו את הטופס, התקשרו או קפצו לביקור במרתף – נחכה לכם עם חיוך והפתעות.
 
 ### Products
-https://-15188025.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - המרתף
 
 ### Cart
-https://-15188025.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://-15188025.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://-15188025.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://-15188025.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://-15188025.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://-15188025.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - המרתף
 
 ### Category
-https://-15188025.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - המרתף
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-15188025.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-15188025.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-15188025.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -95,8 +95,8 @@ Toys & Games
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-15188025.zappy5.app/sitemap.xml
-- Robots: https://-15188025.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-15188025.zappy5.app/llms-full.txt
-- Products (JSON): https://-15188025.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-15188025.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
